@@ -1,1 +1,1 @@
-# shopping-list-vue
+# workshop shopping-list-vue
